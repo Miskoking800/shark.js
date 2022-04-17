@@ -6,5 +6,5 @@ export function mesLog(m) {
 export var name = "Michal";
 
 
-
+m
 
